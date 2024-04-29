@@ -113,3 +113,7 @@ mockuptree.com
 www.rotato.xyz
 frrames.com
 freedesignresources.net
+
+undraw
+tailwind
+framermotion
